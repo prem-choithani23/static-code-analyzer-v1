@@ -24,4 +24,3 @@ public class Main {
     }
 }
 
-// feat(core): add main entry point for analyzer execution
